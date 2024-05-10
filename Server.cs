@@ -10,8 +10,7 @@ public class Server
     
     public async void StartWorkingOfServer()
     {
-        //Broadcast.StartBroadcasting();
-        
+        Broadcast.StartBroadcasting();
         Tcp.HandleTcp();
     }
 }

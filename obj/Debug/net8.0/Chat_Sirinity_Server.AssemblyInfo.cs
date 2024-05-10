@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chat_Sirinity_Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79695ebc89b8d62b5bcff2803997e07a2ec61c15")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chat_Sirinity_Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chat_Sirinity_Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
